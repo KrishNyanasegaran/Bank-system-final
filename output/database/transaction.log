@@ -1,0 +1,23 @@
+[2025-11-28 13:24:58] CREATE account 935383213 (Name: Krish Nyana, Type: savings)
+[2025-11-28 13:25:53] DEPOSIT RM20678.00 to 935383213 (NewBal: RM20678.00)
+[2025-11-28 13:27:40] CREATE account 876928303 (Name: Safwan Safwan, Type: current)
+[2025-11-28 13:37:03] REMIT RM1000.00 from 935383213 to 876928303 (Fee: RM20.00) SenderNewBal: RM19658.00
+[2025-11-28 13:41:49] CREATE account 1125091 (Name: lEBRON Jmaes, Type: savings)
+[2025-11-28 13:42:15] CREATE account 108258736 (Name: Tsepodjn sdfbufhn, Type: current)
+[2025-11-28 13:42:41] CREATE account 915064947 (Name: Johnny Sins, Type: current)
+[2025-11-28 13:45:09] DELETE account 915064947 (Name: Johnny Sins)
+[2025-11-28 13:48:49] Help request submitted
+[2025-12-01 10:54:44] CREATE account 24015249 (Name: mohamed ibrahim, Type: savings)
+[2025-12-02 15:56:39] CREATE account 218416009 (Name: fairuz safwan, Type: savings)
+[2025-12-02 15:57:11] DEPOSIT RM0.01 to 218416009 (NewBal: RM0.01)
+[2025-12-02 22:20:55] CREATE account 90304539 (Name: steph sixnine, Type: current)
+[2025-12-02 22:22:02] DEPOSIT RM8737.83 to 90304539 (NewBal: RM8737.83)
+[2025-12-02 22:22:45] Help request submitted
+[2025-12-03 16:06:08] CREATE account 856265572 (Name: Azat Azamat, Type: current)
+[2025-12-03 16:13:17] DEPOSIT RM30000.00 to 856265572 (NewBal: RM30000.00)
+[2025-12-03 16:14:23] WITHDRAW RM1000.00 from 856265572 (NewBal: RM29000.00)
+[2025-12-03 16:25:31] REMIT RM4000.00 from 856265572 to 218416009 (Fee: RM120.00) SenderNewBal: RM24880.00
+[2025-12-03 23:18:20] CREATE account 777414082 (Name: krish john, Type: current)
+[2025-12-03 23:18:56] DELETE account 777414082 (Name: krish john)
+[2025-12-04 00:18:30] CREATE account 42711915 (Name: krishy johnny sins, Type: savings)
+[2025-12-04 00:18:53] DEPOSIT RM50000.00 to 42711915 (NewBal: RM50000.00)
